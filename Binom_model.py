@@ -349,7 +349,3 @@ sigma = 0.2
 K =40
 r = 0.06
 N2=2000
-
-
-
-#https://quantpy.com.au/binomial-tree-model/american-put-options-with-the-binomial-asset-pricing-model/
